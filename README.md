@@ -1,0 +1,2 @@
+# wanmail.github.io
+blog
